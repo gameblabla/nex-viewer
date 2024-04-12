@@ -126,6 +126,19 @@
         ]
     },
     {
+        "name": "Digimon Re:Digitize Decode",
+        "access_key": "feddccba",
+        "nex_version": "2.7.3",
+        "nex_ranking_version": "2.7.3",
+        "nex_datastore_version": "2.7.3",
+        "nex_match_making_version": "2.7.3",
+        "nex_messaging_version": "2.7.3",
+        "nex_utility_version": "2.7.3",
+        "title_ids": [
+            "00040000000AFC00"
+        ]
+    },
+    {
         "name": "Disney INFINITY",
         "access_key": "",
         "nex_version": "3.5.2",
@@ -230,6 +243,19 @@
             "0005000010116600",
             "000500001012B800",
             "000500001012B900"
+        ]
+    },
+    {
+        "name": "Future Card BuddyFight FEF",
+        "access_key": "0123cccc",
+        "nex_version": "3.7.1",
+        "nex_ranking_version": "3.7.1",
+        "nex_datastore_version": "3.7.1",
+        "nex_match_making_version": "3.7.1",
+        "nex_messaging_version": "3.7.1",
+        "nex_utility_version": "3.7.1",
+        "title_ids": [
+            "000400000014AC00"
         ]
     },
     {
